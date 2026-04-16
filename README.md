@@ -14,3 +14,11 @@
 - 1 Clone este repositório
 - 2 Abra os códigos fonte .c com o DevC++
 - 3 Pressione F11 para compilar e executar
+
+## Exemplo de código em C
+```c
+#include<stdio.h>
+void main(){
+  printf("Alô mundo!");
+}
+```
